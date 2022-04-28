@@ -1,0 +1,54 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    background-color: #74a2a3;
+}
+#wrapper {
+    margin: auto;
+    width: 500px;
+}
+.header {
+    
+    height: 50px;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: white;
+    text-align: center;
+}
+img {
+    width: 500px;
+    height: 400px;
+    object-fit: cover;
+}
+#picture2 {
+    padding-top: 45px;
+    padding-bottom: 45px;
+    width: 500px;
+    height: 300px;
+}
+.photo {
+    background-color: white;
+    width: 500px;
+    height: 500px;
+    border-radius: 3px;
+}
+.photoHeader {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    height: 40px;
+    border-bottom: 2px solid rgb(51, 105, 114);
+    
+}
+.comment {
+    height: 70px;
+    border-top: 2px solid rgb(51, 105, 114);
+    font-family: 'Courier New', Courier, monospace;
+    
+}
+h3 {
+    padding: 10px;   
+}
+span { 
+    float: right;
+    color:rgb(51, 105, 114);
+}
+
+
